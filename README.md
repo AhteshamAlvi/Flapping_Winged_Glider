@@ -3,7 +3,7 @@
 Bio-Inspired Articulated Wing Glider for Wind Characterization and Flapping Flight Research
 
 Ahtesham Alvi · Piyush Sethy · Saiarun Jayanthi <br>
-FIRE Bio-Inspired Robotics — University of Maryland <br>
+FIRE Bio-Inspired Robotics — University of Maryland: College Park <br>
 Advisor: Dr. Lena Johnson
 
 ---
@@ -214,7 +214,7 @@ Environmental sensing platforms <br>
 ## Acknowledgments
 
 FIRE Bio-Inspired Robotics Program <br>
-University of Maryland <br>
+University of Maryland: College Park <br>
 Dr. Lena Johnson
 
 ---
