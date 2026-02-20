@@ -7,7 +7,25 @@ FIRE Bio-Inspired Robotics — University of Maryland <br>
 Advisor: Dr. Lena Johnson
 
 ---
+## Table of Contents
 
+- [Overview](#overview)
+- [Research Goal](#research-goal)
+- [Overview](#overview)
+- [Final Firmware Version](#final-firmware-version)
+- [Prototyping](#prototyping)
+- [Mechanical Design](#mechanical-design)
+- [Firmware and Control](#firmware-and-control)
+- [Wind Sensing and Data Logging](#wind-sensing-and-data-logging)
+- [Experimental Results](#experimental-results)
+- [Repository Structure](#repository-structure)
+- [Hardware Components](#hardware-components)
+- [Key Engineering Insights](#key-engineering-insights)
+- [Future Work](#future-work)
+- [Acknowledgments](#acknowledgments)
+- [License](#license)
+
+---
 ## Overview
 
 This project develops a bio-inspired, tethered flapping wing glider designed to investigate how atmospheric wind conditions interact with articulated wing kinematics in lightweight robotic flight systems. The platform combines a bird-inspired airframe, servo-actuated flapping wings, onboard sensing, and wind telemetry logging to experimentally characterize the behavior of mechanically flapping gliders under real wind conditions.
